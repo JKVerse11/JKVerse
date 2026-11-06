@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">JKVerse brand mark</title>
+  <desc id="desc">A custom geometric J and V monogram in a midnight-blue tile with an electric-blue glow.</desc>
+  <defs>
+    <linearGradient id="tile" x1="8" y1="4" x2="57" y2="62" gradientUnits="userSpaceOnUse"><stop stop-color="#153b70"/><stop offset="1" stop-color="#09172f"/></linearGradient>
+    <linearGradient id="stroke" x1="17" y1="13" x2="49" y2="51" gradientUnits="userSpaceOnUse"><stop stop-color="#9be7ff"/><stop offset=".52" stop-color="#4caeff"/><stop offset="1" stop-color="#a59bff"/></linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.3" result="blur"/><feComposite in="SourceGraphic" in2="blur" operator="over"/></filter>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="19" fill="url(#tile)" stroke="#77c7ff" stroke-opacity=".32" stroke-width="1.5"/>
+  <path d="M37 14v23c0 8-4 13-12 13-4 0-7-1-10-4l6-7c1 2 2 3 4 3 3 0 4-2 4-6V14h8Z" fill="none" stroke="url(#stroke)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <path d="m33 26 15 25M48 26 33 51" fill="none" stroke="url(#stroke)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="49" cy="15" r="2" fill="#b7f4ff"/>
+</svg>

@@ -4,7 +4,7 @@ JKVerse is solution.
 
 ## Website
 
-A responsive single-page website introducing JKVerse's digital services: web development and maintenance, e-commerce, mobile apps, branding and creative, digital marketing, social media, and AI solutions. The site includes a concept-work showcase (clearly labeled as illustrative rather than client work), mobile navigation, FAQ, contact options, and dedicated privacy and terms notices.
+A responsive single-page website introducing JKVerse's digital services: web development and maintenance, e-commerce, mobile apps, branding and creative, digital marketing, social media, and AI solutions. The site includes a custom original SVG monogram and favicon, a deep navy and electric-blue theme, concept-work showcase (clearly labeled as illustrative rather than client work), mobile navigation, FAQ, contact options, and dedicated privacy and terms notices.
 
 Open `index.html` in a browser to preview the site. It uses Google Fonts; the page remains usable if the fonts are unavailable.
 
@@ -18,4 +18,4 @@ The enquiry form opens a prefilled email in the visitor's email application; it 
 
 ## Rights and publishing notes
 
-The website includes general privacy and website terms notices. These are starter copy, not legal advice; have them reviewed for your business, jurisdiction, and actual data practices before publishing. Replace or supplement the concept visuals with authorized portfolio work only, and use third-party assets, logos, fonts, and content only with appropriate permission or licensing. Update `privacy.html` if you add analytics, cookies, or any data collection.
+The JKVerse monogram is an original vector design created for this site. Website text, design, and graphics are intended as JKVerse materials, while third-party names and marks remain owned by their respective holders. The privacy and terms notices are starter copy, not legal advice; have them reviewed for your business, jurisdiction, and actual data practices before publishing. Replace or supplement concept visuals with authorized portfolio work only, and use third-party assets, logos, fonts, and content only with appropriate permission or licensing. Update `privacy.html` if you add analytics, cookies, or any data collection.
